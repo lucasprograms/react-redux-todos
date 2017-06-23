@@ -1,0 +1,7 @@
+.todo {
+  cursor: default;
+}
+
+.todo--complete {
+  text-decoration: line-through;
+}
